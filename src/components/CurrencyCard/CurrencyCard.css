@@ -1,0 +1,27 @@
+.currency-card {
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  .currency-type {
+    text-align: center;
+    font-size: 0.95rem;
+    padding: 10px 0;
+  }
+  
+  .currency-name-img {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .currency-img {
+    height: 30px;
+    width: 30px;
+  }
+  
+  .currency-name span {
+    display: block;
+    text-align: left;
+  }
+  

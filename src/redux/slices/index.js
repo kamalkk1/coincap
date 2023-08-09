@@ -1,0 +1,1 @@
+export { currenciesReducer } from "./currenciesSlice";
